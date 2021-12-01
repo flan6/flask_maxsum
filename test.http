@@ -1,0 +1,4 @@
+POST http://127.0.0.1:8080/maxsum/ HTTP/1.1
+content-type: application/json
+
+ {"list": [-1000, -1, -1, -1, -1000]}
